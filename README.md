@@ -10,6 +10,6 @@ CC0 1.0 Universal (CC0 1.0)
 Public Domain Dedication
 https://creativecommons.org/publicdomain/zero/1.0/deed.en
 
-The materials were obtained from the websites below:
-https://publicdomainq.net/
+The materials were obtained from the websites below: <br>
+https://publicdomainq.net/ <br>
 https://commons.wikimedia.org/
