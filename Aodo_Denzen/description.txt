@@ -1,0 +1,27 @@
+Description:
+
+# filename（ファイル名）
+# original title（原題）
+# in hiragana（ひらがな）
+# in romaji（ローマ字）
+
+denzen-0.jpg
+七里ヶ浜図
+しちりがはまず
+shichirigahama-zu
+
+denzen-1.jpg
+七里ヶ浜遠望図
+しちりがはまずえんぼう
+shichirigahama-enbo-zu
+
+denzen-2.jpg
+墨堤観桜図
+ぼくていかんおうず
+bokutei-okan-zu
+
+denzen-3.jpg
+江戸城周辺風景図
+えどじょうしゅうへんふうけいず
+edojo-shuhen-fukei-zu
+
