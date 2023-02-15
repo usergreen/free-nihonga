@@ -6,26 +6,27 @@ Description:
 # in romaji（ローマ字）
 
 denzen-0.jpg
-七里ヶ浜図
+七里ヶ浜図 (1789-1818)
 しちりがはまず
 shichirigahama-zu
 
 denzen-1.jpg
-七里ヶ浜遠望図
+七里ヶ浜遠望図 (1789-1804)
 しちりがはまずえんぼう
 shichirigahama-enbo-zu
 
 denzen-2.jpg
-墨堤観桜図
+墨堤観桜図 (n/a)
 ぼくていかんおうず
-bokutei-okan-zu
+bokutei-kanoh-zu
 
 denzen-3.jpg
-江戸城周辺風景図
-えどじょうしゅうへんふうけいず
-edojo-shuhen-fukei-zu
+江戸城辺風景図(1789-1801)
+えどじょうへんぷうけいず
+edojo-henpukei-zu
 
 denzen-4.jpg
-浅間山図屏風
+浅間山図屏風 (1804-1818)
 あさまやまずびょうぶ
 asamayama-zu-byobu
+
