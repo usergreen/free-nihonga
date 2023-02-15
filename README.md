@@ -1,5 +1,5 @@
 # free-nihonga
-Provided here are copies of free Japanese paintings, available under Public Domain. You can use them for wallpapers.
+Provided here are free copies of Japanese paintings, available under Public Domain. You can use them for wallpapers.
 
 All images have been subject to CC0 or other means of copyright disclaimer, or the term of copyright protection has expired. Therefore they are not copyrighted.
 
