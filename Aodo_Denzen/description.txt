@@ -12,7 +12,7 @@ shichirigahama-zu
 
 denzen-1.jpg
 七里ヶ浜遠望図 (1789-1804)
-しちりがはまずえんぼう
+しちりがはまえんぼうず
 shichirigahama-enbo-zu
 
 denzen-2.jpg
@@ -23,10 +23,15 @@ bokutei-kanoh-zu
 denzen-3.jpg
 江戸城辺風景図(1789-1801)
 えどじょうへんぷうけいず
-edojo-henpukei-zu
+edo-johen-fukei-zu
 
 denzen-4.jpg
 浅間山図屏風 (1804-1818)
 あさまやまずびょうぶ
 asamayama-zu-byobu
+
+denzen-5.jpg
+両国図 (1789-1818)
+りょうごくず
+ryogoku-zu
 
